@@ -92,9 +92,6 @@ This project focuses on building a **Credit Card Fraud Detection System** using 
    python app.py
    ```
 
-6. Access the dashboard at:  
-   [http://localhost:5000](http://localhost:5000)
-
 ---
 
 ## Results
