@@ -24,3 +24,26 @@ This project focuses on building a **Credit Card Fraud Detection System** using 
   - Developed an interactive dashboard to visualize transaction trends, fraud patterns, and model predictions.  
   - Dashboard provides real-time insights into transaction anomalies and fraud statistics.
 
+---
+
+## Project Workflow
+
+1. **Data Collection**  
+   Collected anonymized credit card transaction data for training and evaluation.
+
+2. **Data Cleaning and Preprocessing**  
+   - Addressed missing values, imbalances, and noisy data.  
+   - Conducted exploratory data analysis (EDA) to understand data distribution and fraud patterns.
+
+3. **Model Development**  
+   - Built supervised learning models and fine-tuned hyperparameters.  
+   - Designed a custom neural network architecture for improved fraud detection.
+
+4. **Model Deployment**  
+   - Integrated the best-performing model into the fraud detection system.  
+   - Stored processed data and predictions for dashboard visualization.
+
+5. **Dashboard Creation**  
+   - Used tools such as Power BI/Tableau/Plotly to design the dashboard.  
+   - Visualized key metrics, fraud trends, and individual transaction risk scores.
+
