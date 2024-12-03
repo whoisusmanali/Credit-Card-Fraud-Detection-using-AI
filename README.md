@@ -116,6 +116,6 @@ This project focuses on building a **Credit Card Fraud Detection System** using 
 ## Contributors
 
 - **Usman Ali**  
-  [GitHub](https://github.com/UsmanAli-DataScientist) | [LinkedIn](https://www.linkedin.com/in/usman-ali/)  
+  [LinkedIn](https://www.linkedin.com/in/usman-ali-datascience/)
 
 Feel free to reach out for questions or collaborations!
