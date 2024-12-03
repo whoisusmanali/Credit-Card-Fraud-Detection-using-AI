@@ -47,3 +47,75 @@ This project focuses on building a **Credit Card Fraud Detection System** using 
    - Used tools such as Power BI/Tableau/Plotly to design the dashboard.  
    - Visualized key metrics, fraud trends, and individual transaction risk scores.
 
+---
+
+## Technologies and Tools Used
+
+- **Languages**: Python  
+- **Libraries**:  
+  - **Data Preprocessing**: Pandas, NumPy, Scikit-learn  
+  - **Machine Learning**: Scikit-learn, XGBoost  
+  - **Neural Networks**: TensorFlow, Keras  
+  - **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Dashboard**: Power BI / Tableau / Dash  
+- **Data Storage**: SQL / MongoDB  
+
+---
+
+## How to Run
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/username/credit-card-fraud-detection.git
+   cd credit-card-fraud-detection
+   ```
+
+2. Install required libraries:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Preprocess data:  
+   Run the preprocessing script to clean and process the data:  
+   ```bash
+   python preprocess.py
+   ```
+
+4. Train models:  
+   Train the machine learning and neural network models:  
+   ```bash
+   python train_model.py
+   ```
+
+5. Launch the dashboard:  
+   ```bash
+   python app.py
+   ```
+
+6. Access the dashboard at:  
+   [http://localhost:5000](http://localhost:5000)
+
+---
+
+## Results
+
+- Achieved high precision and recall for fraud detection.
+- Reduced false positive rates while identifying fraudulent transactions accurately.
+- Interactive dashboard enables quick decision-making for anomaly detection.
+
+---
+
+## Future Enhancements
+
+- Integrate real-time fraud detection for live transactions.  
+- Add more advanced deep learning models like LSTMs or Transformers.  
+- Expand dashboard functionalities for better user insights.
+
+---
+
+## Contributors
+
+- **Usman Ali**  
+  [GitHub](https://github.com/UsmanAli-DataScientist) | [LinkedIn](https://www.linkedin.com/in/usman-ali/)  
+
+Feel free to reach out for questions or collaborations!
